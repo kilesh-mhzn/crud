@@ -1,3 +1,0 @@
-# crud
-
-basic crud app
